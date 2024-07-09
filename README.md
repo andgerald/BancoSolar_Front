@@ -1,6 +1,6 @@
-# Proyecto banco solar
+# Banco solar
+este proyecto esta enfocado en la realización de transacciones entre usuario, permitiendo agregar, editar y eliminar a los usuarios y por la parte de transacciones nos permite realizar una transaccion entre los usuarios  existentes.
 
-descripccion
 como funciona
 casos de uso
 tecnologias usadas
